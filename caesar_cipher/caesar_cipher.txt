@@ -1,0 +1,2 @@
+5
+I learned Ruby at The Odin Project. They have some great projects for vanilla Ruby - making games played in terminal. I've done tic tac toe, mastermind, hangman, connect four, and chess. In addition to other exercises that they have throughout their curriculum. I really liked their curriculum, because the projects increased in difficulty (and they have a great Ruby on Rails section too).
